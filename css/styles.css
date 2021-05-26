@@ -1,0 +1,55 @@
+/******* Tag selector***********/
+h1{
+color: blue;
+font-size: 80px;
+}
+
+p{
+  color: red;
+}
+
+img{
+background-color: red;
+
+}
+
+
+img:hover{
+
+  background-color: gold;
+}
+
+
+/******* class selector***********/
+
+.bacon{
+  background-color: green;
+  height: 200px;
+
+}
+
+.broccoli{
+  background-color: red;
+  height: 200px;
+}
+
+.circular{
+border-radius: 100%;
+
+}
+
+.pragraph{
+  color: powderblue;
+}
+
+/******* id selector***********/
+
+#par2{
+color: yellow;
+
+}
+
+#par3{
+color: yellow;
+
+}
